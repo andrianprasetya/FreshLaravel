@@ -3,6 +3,6 @@ Project Baru Laravel
 
 # Clone project
 
-#Config 
+# Config 
 cp .env.example .env
 
